@@ -118,11 +118,6 @@ public class MainActivity extends AppCompatActivity {
         //calling sync state is necessay or else your hamburger icon wont show up
         actionBarDrawerToggle.syncState();
 
-
-
-
-
-
     }
 
     @Override
